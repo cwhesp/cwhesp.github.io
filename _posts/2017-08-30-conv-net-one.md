@@ -1,5 +1,5 @@
 ---
-title: Convolution Neural Network Walkthrough -Post 1 |Summer Research: Summary 
+title: Convolution Neural Network Walkthrough -Post 1 |Summer Research Summary 
 category: Computer
 excerpt: |    
   This post records the necessary links and excerpts to understand convolution neural network from shallow to deep.
@@ -36,3 +36,22 @@ Three hundred dollars worth of credits free to use. But GPU is not supported the
 [Notepad++](https://notepad-plus-plus.org/) --[Notepad++ -Plugin](https://sites.google.com/site/fstellari/nppplugins "Autofill and Autosave")  
 Free editing software with multi-functional hightlight.  
 
+##### Machine Learning  
+
+[Machine Learning](https://see.stanford.edu/Course/CS229)   
+Understand the basic concepts and category of machine learning.  
+[Artificial Neural Network](http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html)  
+Grasp some basic ideas about the composition of ANN.  
+[ANN](https://algobeans.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)  
+A more user-friendly introduction with multiple illustrations.  
+
+[Visualizing Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)  
+Understand backpropagation's core issue: partial derivative.   
+[Visualizing Backpropagation - Part Two](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)  
+Step-by-step backpropagation with numbers.  
+[Visualizing optimizers](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)  
+You may refer to individual papers for detailed explanation.    
+[MNIST using ANN](https://www.tensorflow.org/get_started/mnist/beginners)  
+Auxiliary Notes. Be sure to try running real programs!  
+
+  
