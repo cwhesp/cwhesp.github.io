@@ -33,7 +33,20 @@ Watch the dynamic convolution illustration and several visualization of the func
 [Visualizing Convolution - YouTube Video](https://youtu.be/ghEmQSxT6tw)  
 Visualize each convolution layers' function and how they form a hierarchical structure.  
 [Tensorflow Realization](https://www.tensorflow.org/tutorials/layers)  
-This page tells how to realize CNN using tensorflow. The languages may be a little abstruse for newcomers, but at least better than nothing.    
+This page tells how to realize CNN using tensorflow. The languages may be a little abstruse for newcomers, but at least better than nothing.  
+
+##### General Deep Learning Strategies  
+[Must Know Tips/Tricks in Deep Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)  
+The webpage shares some interesting insight into deep networks training.  
+[How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)  
+Some general discussion in sequential order.   
+
+##### Object Detection
+[基于深度学习的目标检测研究进展(Chinese)](https://zhuanlan.zhihu.com/p/21412911)
+Introducing object detection algorithms in chronological order.
+
+
+  
 
 
   

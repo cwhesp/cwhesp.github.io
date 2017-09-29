@@ -43,6 +43,8 @@ Free editing software with multi-functional hightlight.
 Understand the basic concepts and category of machine learning.  
 [Artificial Neural Network](http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html)  
 Grasp some basic ideas about the composition of ANN.  
+[Neural Network Playground](http://playground.tensorflow.org/)  
+Have fun with the interactive design!   
 [ANN](https://algobeans.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)  
 A more user-friendly introduction with multiple illustrations.  
 
@@ -54,5 +56,7 @@ Step-by-step backpropagation with numbers.
 You may refer to individual papers for detailed explanation.    
 [MNIST using ANN](https://www.tensorflow.org/get_started/mnist/beginners)  
 Auxiliary Notes. Be sure to try running real programs!  
+[Tensorboard Readme](https://github.com/tensorflow/tensorflow/blob/r1.1/tensorflow/tensorboard/README.md)  
+Visualizing and monitoring the training process.  
 
   
